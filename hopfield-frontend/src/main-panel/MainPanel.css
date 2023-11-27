@@ -1,0 +1,14 @@
+.content {
+    display: flex;
+    justify-content: space-between;
+    padding: 50px 100px;
+}
+
+.error-text {
+    color: #F50000;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}

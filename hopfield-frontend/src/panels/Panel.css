@@ -1,0 +1,24 @@
+.panel {
+    display: flex;
+    flex-direction: column;
+    width: 405px;
+}
+
+.text {
+    color: #000;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.buttons {
+    margin-top: 40px;
+    display: flex;
+    flex-direction: column;
+}
+
+.buttons > * {
+    margin-bottom: 10px;
+}

@@ -1,0 +1,19 @@
+.header {
+    width: 100%;
+    padding: 15px 100px;
+    border-bottom: 1px solid black; 
+}
+
+.logo {
+    display: flex;
+}
+
+.logo-text {
+    margin-left: 10px;
+    color: #000;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}

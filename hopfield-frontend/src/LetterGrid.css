@@ -1,0 +1,22 @@
+.LetterGrid {
+  display: grid;
+  grid-template-columns: repeat(10, 40px);
+  grid-gap: 0; 
+}
+
+.LetterGrid-cell {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 0;
+}
+
+.LetterGrid-cell.black {
+  background-color: black;
+}
+
+.LetterGrid-cell.white {
+  background-color: yellow;
+}
